@@ -1,0 +1,11 @@
+{
+  "name": "base64-to-uint8-array",
+  "version": "0.0.1",
+  "description": "urlBase64ToUint8Array function. Can be used to convert VAPID keys for web push",
+  "main": "url-base64-to-uint8-array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
